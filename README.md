@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | Open Source Enthusiast
 
-I'm a passionate developer from Vizianagaram, India, who loves building scalable web applications and automation tools. I enjoy solving real-world problems through clean, efficient code.
+I'm a passionate full stack developer, who loves building scalable web applications and automation tools. I enjoy solving real-world problems through clean, efficient code.
 
 ---
 
