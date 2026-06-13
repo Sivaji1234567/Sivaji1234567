@@ -33,14 +33,6 @@ I'm a passionate full stack developer, who loves building scalable web applicati
 
 ---
 
-### 📊 GitHub Stats
-
-![Sivaji1234567's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivaji1234567&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaji1234567&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sivaprasad-angudu-1566a9225)
